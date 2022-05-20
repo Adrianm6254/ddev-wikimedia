@@ -12,13 +12,13 @@ tasks:
       gp await-port 8080 && gp preview $(gp url 8080)
 
 # VScode xdebug extension
-vscode:
-  extensions:
-    # PHP extensions.
-    - felixfbecker.php-debug
-    - wongjn.php-sniffer
-    - neilbrayfield.php-docblocker
-    - bmewburn.vscode-intelephense-client
+#vscode:
+#  extensions:
+#    # PHP extensions.
+#    - felixfbecker.php-debug
+#    - wongjn.php-sniffer
+#    - neilbrayfield.php-docblocker
+#    - bmewburn.vscode-intelephense-client
 
     # Twig extensions.
     - mblode.twig-language-2
